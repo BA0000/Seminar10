@@ -1,0 +1,15 @@
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.csproj.AssemblyReference.cache
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.AssemblyInfoInputs.cache
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.AssemblyInfo.cs
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.csproj.CoreCompileInputs.cache
+D:\Allprojects\AllRepos\Seminars\Seminar10\bin\Debug\net6.0\Seminar10.exe
+D:\Allprojects\AllRepos\Seminars\Seminar10\bin\Debug\net6.0\Seminar10.deps.json
+D:\Allprojects\AllRepos\Seminars\Seminar10\bin\Debug\net6.0\Seminar10.runtimeconfig.json
+D:\Allprojects\AllRepos\Seminars\Seminar10\bin\Debug\net6.0\Seminar10.dll
+D:\Allprojects\AllRepos\Seminars\Seminar10\bin\Debug\net6.0\Seminar10.pdb
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.dll
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\refint\Seminar10.dll
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.pdb
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\Seminar10.genruntimeconfig.cache
+D:\Allprojects\AllRepos\Seminars\Seminar10\obj\Debug\net6.0\ref\Seminar10.dll
